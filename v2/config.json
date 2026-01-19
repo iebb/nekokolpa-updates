@@ -1,79 +1,79 @@
 {
     "android": {
-        "privileged": [
-            {
-                "version": "2.0.0",
-                "build": 31,
-                "signatures": [],
-                "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-                "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B31/ee.nekoko.nlpa2-2.0.0-31.magisk.zip",
-                "changelog": "Update available."
-            }
-        ],
-        "std": [
-            {
-                "version": "2.0.0",
-                "build": 31,
-                "signatures": [],
-                "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-                "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B31/ee.nekoko.nlpa2.std-2.0.0-31-arm64-v8a.apk",
-                "changelog": "Update available."
-            }
-        ],
-        "multi": [
-            {
-                "version": "2.0.0",
-                "build": 31,
-                "signatures": [],
-                "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-                "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B31/ee.nekoko.nlpa2.multi-2.0.0-31-arm64-v8a.apk",
-                "changelog": "Update available."
-            }
-        ],
-        "sekiu": [
-            {
-                "version": "2.0.0",
-                "build": 31,
-                "signatures": [],
-                "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-                "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B31/ee.nekoko.nlpa2.sekiu-2.0.0-31-arm64-v8a.apk",
-                "changelog": "Update available."
-            }
-        ]
+        "privileged-DED4D156C8ABC40523C6415C9C8F5B89C338600C": {
+            "version": "2.0.0",
+            "build": 30,
+            "signatures": [
+                "DED4D156C8ABC40523C6415C9C8F5B89C338600C"
+            ],
+            "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B30/ee.nekoko.nlpa2-2.0.0-30.magisk.zip",
+            "changelog": "Initial v2 release with update checker."
+        },
+        "std-DED4D156C8ABC40523C6415C9C8F5B89C338600C": {
+            "version": "2.0.0",
+            "build": 30,
+            "signatures": [
+                "DED4D156C8ABC40523C6415C9C8F5B89C338600C"
+            ],
+            "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B30/ee.nekoko.nlpa2.std-2.0.0-30-arm64-v8a.apk",
+            "changelog": "Initial v2 release with update checker."
+        },
+        "multi-65D0571854AFEC519A90F92D7C5D8CF8148DA373-C47350C7BA682B34A3E584A0D58463EA42B1AD73-DED4D156C8ABC40523C6415C9C8F5B89C338600C": {
+            "version": "2.0.0",
+            "build": 30,
+            "signatures": [
+                "65D0571854AFEC519A90F92D7C5D8CF8148DA373",
+                "C47350C7BA682B34A3E584A0D58463EA42B1AD73",
+                "DED4D156C8ABC40523C6415C9C8F5B89C338600C"
+            ],
+            "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B30/ee.nekoko.nlpa2.multi-2.0.0-30-arm64-v8a.apk",
+            "changelog": "Initial v2 release with update checker."
+        },
+        "sekiu-C47350C7BA682B34A3E584A0D58463EA42B1AD73": {
+            "version": "2.0.0",
+            "build": 30,
+            "signatures": [
+                "C47350C7BA682B34A3E584A0D58463EA42B1AD73"
+            ],
+            "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B30/ee.nekoko.nlpa2.sekiu-2.0.0-30-arm64-v8a.apk",
+            "changelog": "Initial v2 release with update checker."
+        }
     },
     "macos": {
-        "version": "2.0.0",
-        "build": 30,
-        "url": "https://testflight.apple.com/join/bP38fzC4",
-        "changelog": "Initial v2 release with update checker."
+        "std": {
+            "version": "2.0.0",
+            "build": 30,
+            "url": "https://testflight.apple.com/join/bP38fzC4",
+            "changelog": "Initial v2 release with update checker."
+        }
     },
     "ios": {
-        "version": "2.0.0",
-        "build": 30,
-        "url": "https://testflight.apple.com/join/bP38fzC4",
-        "changelog": "Initial v2 release with update checker."
+        "std": {
+            "version": "2.0.0",
+            "build": 30,
+            "url": "https://testflight.apple.com/join/bP38fzC4",
+            "changelog": "Initial v2 release with update checker."
+        }
     },
     "windows": {
-        "version": "2.0.0",
-        "build": 30,
-        "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-        "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B30/ee.nekoko.nlpa2.windows-2.0.0-30-setup.exe",
-        "changelog": "Initial v2 release with update checker.",
-        "std": [
-            {
-                "version": "2.0.0",
-                "build": 31,
-                "signatures": [],
-                "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-                "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B31/ee.nekoko.nlpa2.windows-2.0.0-31-setup.exe",
-                "changelog": "Update available."
-            }
-        ]
+        "std": {
+            "version": "2.0.0",
+            "build": 30,
+            "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B30/ee.nekoko.nlpa2.windows-2.0.0-30-setup.exe",
+            "changelog": "Initial v2 release with update checker."
+        }
     },
     "linux": {
-        "version": "2.0.0",
-        "build": 30,
-        "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-        "changelog": "Initial v2 release with update checker."
+        "std": {
+            "version": "2.0.0",
+            "build": 30,
+            "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+            "changelog": "Initial v2 release with update checker."
+        }
     }
 }
