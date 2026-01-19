@@ -1,0 +1,59 @@
+{
+    "android": {
+        "privileged": [
+            {
+                "version": "2.0.0",
+                "build": 30,
+                "signatures": [
+                    "DED4D156C8ABC40523C6415C9C8F5B89C338600C"
+                ],
+                "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+                "changelog": "Initial v2 release with update checker."
+            }
+        ],
+        "std": [
+            {
+                "version": "2.0.0",
+                "build": 30,
+                "signatures": [
+                    "DED4D156C8ABC40523C6415C9C8F5B89C338600C"
+                ],
+                "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+                "changelog": "Initial v2 release with update checker."
+            }
+        ],
+        "multi": [
+            {
+                "version": "2.0.0",
+                "build": 30,
+                "signatures": [],
+                "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+                "changelog": "Initial v2 release with update checker."
+            }
+        ]
+    },
+    "macos": {
+        "version": "2.0.0",
+        "build": 30,
+        "url": "https://testflight.apple.com/join/bP38fzC4",
+        "changelog": "Initial v2 release with update checker."
+    },
+    "ios": {
+        "version": "2.0.0",
+        "build": 30,
+        "url": "https://testflight.apple.com/join/bP38fzC4",
+        "changelog": "Initial v2 release with update checker."
+    },
+    "windows": {
+        "version": "2.0.0",
+        "build": 30,
+        "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+        "changelog": "Initial v2 release with update checker."
+    },
+    "linux": {
+        "version": "2.0.0",
+        "build": 30,
+        "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+        "changelog": "Initial v2 release with update checker."
+    }
+}
