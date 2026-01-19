@@ -18,16 +18,6 @@
                 "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
                 "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B31/ee.nekoko.nlpa2.std-2.0.0-31-arm64-v8a.apk",
                 "changelog": "Update available."
-            },
-            {
-                "version": "2.0.0",
-                "build": 30,
-                "signatures": [
-                    "DED4D156C8ABC40523C6415C9C8F5B89C338600C"
-                ],
-                "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-                "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B30/ee.nekoko.nlpa2.std-2.0.0-30-arm64-v8a.apk",
-                "changelog": "Initial v2 release with update checker."
             }
         ],
         "multi": [
