@@ -3,6 +3,14 @@
         "privileged": [
             {
                 "version": "2.0.0",
+                "build": 31,
+                "signatures": [],
+                "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+                "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B31/ee.nekoko.nlpa2-2.0.0-31.magisk.zip",
+                "changelog": "Update available."
+            },
+            {
+                "version": "2.0.0",
                 "build": 30,
                 "signatures": [
                     "DED4D156C8ABC40523C6415C9C8F5B89C338600C"
