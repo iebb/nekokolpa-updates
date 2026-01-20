@@ -87,6 +87,36 @@
             "build": 30,
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
             "changelog": "Initial v2 release with update checker."
+        },
+        "esim9-appimage": {
+            "version": "2.0.0",
+            "build": 31,
+            "signatures": [],
+            "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B31/ee.nekoko.nlpa.flavor1-2.0.0-31-x64.AppImage",
+            "changelog": "Update available.",
+            "published_at": "2026-01-20T06:25:34.057719Z",
+            "file_size": 20183544
+        },
+        "esim9-tgz": {
+            "version": "2.0.0",
+            "build": 31,
+            "signatures": [],
+            "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B31/ee.nekoko.nlpa.flavor1-2.0.0-31-x64.tar.gz",
+            "changelog": "Update available.",
+            "published_at": "2026-01-20T06:25:34.088347Z",
+            "file_size": 21327343
+        },
+        "esim9": {
+            "version": "2.0.0",
+            "build": 31,
+            "signatures": [],
+            "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.0%2B31/ee.nekoko.nlpa.flavor1-2.0.0-31-x64.AppImage",
+            "changelog": "Update available.",
+            "published_at": "2026-01-20T06:25:34.118630Z",
+            "file_size": 20183544
         }
     }
 }
