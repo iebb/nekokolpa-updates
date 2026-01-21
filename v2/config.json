@@ -84,12 +84,12 @@
     "windows": {
         "std": {
             "version": "2.0.1",
-            "build": 35,
+            "build": 536,
             "signatures": [],
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B35/ee.nekoko.nlpa2.windows-2.0.1-35-setup.exe",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B536/ee.nekoko.nlpa2.windows-2.0.1-536-setup.exe",
             "changelog": "Update available.",
-            "published_at": "2026-01-21T17:29:24.212886Z",
+            "published_at": "2026-01-21T18:10:54.290470Z",
             "file_size": 0
         }
     },
