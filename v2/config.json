@@ -96,12 +96,12 @@
     "linux": {
         "std": {
             "version": "2.0.1",
-            "build": 35,
+            "build": 536,
             "signatures": [],
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B35/ee.nekoko.nlpa2.std-2.0.1-35-x64.AppImage",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B536/ee.nekoko.nlpa2.std-2.0.1-536-x64.AppImage",
             "changelog": "Update available.",
-            "published_at": "2026-01-21T17:27:47.147689Z",
+            "published_at": "2026-01-21T18:08:45.522475Z",
             "file_size": 20154872
         },
         "esim9-appimage": {
@@ -136,23 +136,23 @@
         },
         "std-appimage": {
             "version": "2.0.1",
-            "build": 35,
+            "build": 536,
             "signatures": [],
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B35/ee.nekoko.nlpa2.std-2.0.1-35-x64.AppImage",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B536/ee.nekoko.nlpa2.std-2.0.1-536-x64.AppImage",
             "changelog": "Update available.",
-            "published_at": "2026-01-21T17:27:47.089778Z",
+            "published_at": "2026-01-21T18:08:45.466070Z",
             "file_size": 20154872
         },
         "std-tgz": {
             "version": "2.0.1",
-            "build": 35,
+            "build": 536,
             "signatures": [],
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B35/ee.nekoko.nlpa2.std-2.0.1-35-x64.tar.gz",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B536/ee.nekoko.nlpa2.std-2.0.1-536-x64.tar.gz",
             "changelog": "Update available.",
-            "published_at": "2026-01-21T17:27:47.118411Z",
-            "file_size": 21300688
+            "published_at": "2026-01-21T18:08:45.494655Z",
+            "file_size": 21301315
         }
     }
 }
