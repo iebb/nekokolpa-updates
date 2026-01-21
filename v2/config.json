@@ -101,8 +101,8 @@
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
             "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B536/ee.nekoko.nlpa2.std-2.0.1-536-x64.AppImage",
             "changelog": "Update available.",
-            "published_at": "2026-01-21T18:08:45.522475Z",
-            "file_size": 20154872
+            "published_at": "2026-01-21T18:53:42.118953Z",
+            "file_size": 20142584
         },
         "esim9-appimage": {
             "version": "2.0.0",
@@ -141,8 +141,8 @@
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
             "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B536/ee.nekoko.nlpa2.std-2.0.1-536-x64.AppImage",
             "changelog": "Update available.",
-            "published_at": "2026-01-21T18:08:45.466070Z",
-            "file_size": 20154872
+            "published_at": "2026-01-21T18:53:42.058162Z",
+            "file_size": 20142584
         },
         "std-tgz": {
             "version": "2.0.1",
@@ -151,8 +151,8 @@
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
             "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B536/ee.nekoko.nlpa2.std-2.0.1-536-x64.tar.gz",
             "changelog": "Update available.",
-            "published_at": "2026-01-21T18:08:45.494655Z",
-            "file_size": 21301315
+            "published_at": "2026-01-21T18:53:42.088762Z",
+            "file_size": 21272200
         }
     }
 }
