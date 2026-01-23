@@ -67,18 +67,30 @@
     },
     "macos": {
         "std": {
-            "version": "2.0.0",
-            "build": 31,
+            "version": "2.0.1",
+            "build": 536,
+            "url": "https://apps.apple.com/us/app/nekokolpa-2/id6757540723",
+            "changelog": "Initial App Store Release."
+        },
+        "std-testflight": {
+            "version": "2.0.2",
+            "build": 536,
             "url": "https://testflight.apple.com/join/bP38fzC4",
-            "changelog": "Initial v2 release with update checker."
+            "changelog": "Testflight. Updated synchronously with Android"
         }
     },
     "ios": {
         "std": {
-            "version": "2.0.0",
-            "build": 31,
+            "version": "2.0.1",
+            "build": 34,
+            "url": "https://apps.apple.com/us/app/nekokolpa-2/id6757540723",
+            "changelog": "Initial App Store Release."
+        },
+        "std-testflight": {
+            "version": "2.0.2",
+            "build": 536,
             "url": "https://testflight.apple.com/join/bP38fzC4",
-            "changelog": "Initial v2 release with update checker."
+            "changelog": "Testflight. Updated synchronously with Android"
         }
     },
     "windows": {
