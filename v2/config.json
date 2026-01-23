@@ -54,15 +54,15 @@
         },
         "sekiu-c47350c7ba682b34a3e584a0d58463ea42b1ad73": {
             "version": "2.0.1",
-            "build": 537,
+            "build": 538,
             "signatures": [
                 "c47350c7ba682b34a3e584a0d58463ea42b1ad73"
             ],
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B537/ee.nekoko.nlpa2.sekiu-2.0.1-537-arm64-v8a.apk",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.1%2B538/ee.nekoko.nlpa2.sekiu-2.0.1-538-arm64-v8a.apk",
             "changelog": "Update available.",
-            "published_at": "2026-01-22T04:25:32.579105Z",
-            "file_size": 37016418
+            "published_at": "2026-01-23T14:49:41.452661Z",
+            "file_size": 37110726
         }
     },
     "macos": {
