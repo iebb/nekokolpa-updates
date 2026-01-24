@@ -38,7 +38,7 @@
         },
         "multi-114514191909beef280ca91de875403b03999682-65d0571854afec519a90f92d7c5d8cf8148da373-8f23ee7868bdb19f94ca3ee295e240d71efa33dc-c47350c7ba682b34a3e584a0d58463ea42b1ad73-d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f": {
             "version": "2.0.2",
-            "build": 539,
+            "build": 540,
             "signatures": [
                 "114514191909beef280ca91de875403b03999682",
                 "65d0571854afec519a90f92d7c5d8cf8148da373",
@@ -47,10 +47,10 @@
                 "d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f"
             ],
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.2%2B539/ee.nekoko.nlpa2.multi-2.0.2-539-arm64-v8a.apk",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.2%2B540/ee.nekoko.nlpa2.multi-2.0.2-540-arm64-v8a.apk",
             "changelog": "Update available.",
-            "published_at": "2026-01-24T15:36:45.933335Z",
-            "file_size": 37144018
+            "published_at": "2026-01-24T16:18:48.107858Z",
+            "file_size": 37213650
         },
         "sekiu-c47350c7ba682b34a3e584a0d58463ea42b1ad73": {
             "version": "2.0.2",
