@@ -96,12 +96,12 @@
     "windows": {
         "std": {
             "version": "2.0.3",
-            "build": 550,
+            "build": 551,
             "signatures": [],
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.3%2B550/ee.nekoko.nlpa2.windows-2.0.3-550-setup.exe",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.3%2B551/ee.nekoko.nlpa2.windows-2.0.3-551-setup.exe",
             "changelog": "Update available.",
-            "published_at": "2026-02-04T04:24:40.028529Z",
+            "published_at": "2026-02-04T06:58:01.455002Z",
             "file_size": 0
         }
     },
