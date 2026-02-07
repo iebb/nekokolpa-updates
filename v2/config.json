@@ -108,13 +108,13 @@
     "linux": {
         "std": {
             "version": "2.0.3",
-            "build": 551,
+            "build": 552,
             "signatures": [],
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.3%2B551/ee.nekoko.nlpa2.std-2.0.3-551-x64.AppImage",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.3%2B552/ee.nekoko.nlpa2.std-2.0.3-552-x64.AppImage",
             "changelog": "Update available.",
-            "published_at": "2026-02-04T06:53:19.363215Z",
-            "file_size": 21105144
+            "published_at": "2026-02-07T16:42:30.213023Z",
+            "file_size": 23263736
         },
         "esim9-appimage": {
             "version": "2.0.0",
@@ -148,23 +148,23 @@
         },
         "std-appimage": {
             "version": "2.0.3",
-            "build": 551,
+            "build": 552,
             "signatures": [],
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.3%2B551/ee.nekoko.nlpa2.std-2.0.3-551-x64.AppImage",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.3%2B552/ee.nekoko.nlpa2.std-2.0.3-552-x64.AppImage",
             "changelog": "Update available.",
-            "published_at": "2026-02-04T06:53:10.931530Z",
-            "file_size": 21105144
+            "published_at": "2026-02-07T16:42:24.215375Z",
+            "file_size": 23263736
         },
         "std-tgz": {
             "version": "2.0.3",
-            "build": 551,
+            "build": 552,
             "signatures": [],
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.3%2B551/ee.nekoko.nlpa2.std-2.0.3-551-x64.tar.gz",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.3%2B552/ee.nekoko.nlpa2.std-2.0.3-552-x64.tar.gz",
             "changelog": "Update available.",
-            "published_at": "2026-02-04T06:53:15.175312Z",
-            "file_size": 22376477
+            "published_at": "2026-02-07T16:42:27.341376Z",
+            "file_size": 24849213
         }
     }
 }
