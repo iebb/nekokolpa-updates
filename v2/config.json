@@ -2,15 +2,15 @@
     "android": {
         "privileged-d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f": {
             "version": "2.0.3",
-            "build": 552,
+            "build": 553,
             "signatures": [
                 "d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f"
             ],
             "url": "https://github.com/iebb/NekokoLPA2/releases/latest",
-            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.3%2B552/ee.nekoko.nlpa2-2.0.3-552.magisk.zip",
+            "download_url": "https://github.com/iebb/NekokoLPA2/releases/download/v2.0.3%2B553/ee.nekoko.nlpa2-2.0.3-553.magisk.zip",
             "changelog": "Update available.",
-            "published_at": "2026-02-07T16:56:57.672407Z",
-            "file_size": 42210186
+            "published_at": "2026-02-08T17:40:04.819336Z",
+            "file_size": 42276134
         },
         "std-d1c0f48b370e74d4ea4770ed4c3cd70a3198d31f": {
             "version": "2.0.3",
